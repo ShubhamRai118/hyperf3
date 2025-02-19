@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N0KERNEL fork by AlirezaParsi
+kernel.string=N0KERNEL fork by @iMHereWhy
 do.devicecheck=1
 do.modules=0
 do.systemless=1
